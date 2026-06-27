@@ -1,0 +1,20 @@
+[
+    {
+        "name": "night out",
+        "top": "lace",
+        "bottom": "fancyjeans",
+        "shoes": "blackheels"
+    },
+    {
+        "name": "mall fit",
+        "top": "snoopysweater",
+        "bottom": "straightjeans",
+        "shoes": "yellowonit"
+    },
+    {
+        "name": "motorcycle fit",
+        "top": "vintagejacket",
+        "bottom": "straightjeans",
+        "shoes": "newbalances"
+    }
+]
